@@ -1,0 +1,18 @@
+#  mediation
+Mon_CDR_input_path=/comptel/elink/test/input/CCS_MON/ACT_ANK/
+Mgr_CDR_input_path=/comptel/elink/test/input/CCS_MGR/ACT_ANK/
+Mon_CDR_output_path=testuser
+Mgr_CDR_output_path=testuser
+Mediation_IP=10.86.248.99
+Mediation_User=elink
+Mediation_Password=elinkp
+
+CCS_IP=10.144.15.144
+CCS_user=cbp
+CCS_Password=p
+CCS_Script_path=/enip/enipapp/cbp/script/
+
+#kenan Unix
+kenan_unix_ip=172.31.70.226
+arbor_unix_password=pp
+batchusr_unix_password=pp
